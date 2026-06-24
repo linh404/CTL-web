@@ -2,7 +2,7 @@
 
 **CTL Web** là một ứng dụng thương mại điện tử (e-commerce) mã nguồn mở được xây dựng bằng **PHP thuần**, kết hợp với **MySQL**, **Bootstrap 5** và **JavaScript**. Ứng dụng cung cấp nền tảng mua sắm thời trang trực tuyến với đầy đủ chức năng từ duyệt sản phẩm, quản lý giỏ hàng, thanh toán đến hệ thống quản trị (Admin Dashboard).
 
-> 🌐 **Demo:** [https://ctl-store.kesug.com](https://ctl-store.kesug.com)
+> 🌐 **Demo:** [https://ctl01.infy.uk/?i=1](https://ctl01.infy.uk/?i=1)
 
 ---
 
